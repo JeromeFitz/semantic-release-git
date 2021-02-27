@@ -1,6 +1,6 @@
 # @jeromefitz/semantic-release-git
 
-🍴️ Forked from: [`@semantic-release/git`](https://github.com/semantic-release/semantic-release)
+🍴️ Forked from: [`@semantic-release/git`](https://github.com/semantic-release/git)
 
 ## Why Custom
 
@@ -16,6 +16,7 @@ So have changed that expectation with `template` to a `replace` function (`getCo
 
 Following fields are currently "dynamic" (post verify):
 
+- `{BRANCH_NAME}`
 - `{PACKAGE_NAME}`
 - `{RELEASE_NOTES}`
 - `{RELEASE_TAG}`
