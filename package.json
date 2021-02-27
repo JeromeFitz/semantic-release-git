@@ -1,6 +1,6 @@
 {
-  "name": "@semantic-release/git",
-  "description": "semantic-release plugin to commit release assets to the project's git repository",
+  "name": "@jeromefitz/semantic-release-git",
+  "description": "custom semantic-release plugin to commit release assets to the project's git repository",
   "version": "0.0.0-development",
   "author": "Pierre Vanduynslager (https://github.com/pvdlg)",
   "ava": {
@@ -13,7 +13,8 @@
   },
   "contributors": [
     "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
-    "Gregor Martynus (https://twitter.com/gr2m)"
+    "Gregor Martynus (https://twitter.com/gr2m)",
+    "Jerome Fitzgerald <j@jeromefitzgerald.com>(https://jeromefitzgerald.com)"
   ],
   "dependencies": {
     "@semantic-release/error": "^2.1.0",
@@ -45,7 +46,7 @@
     "lib",
     "index.js"
   ],
-  "homepage": "https://github.com/semantic-release/git#readme",
+  "homepage": "https://github.com/jeromefitz/semantic-release-git#readme",
   "keywords": [
     "changelog",
     "commit",
