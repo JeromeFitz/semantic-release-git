@@ -9,7 +9,7 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/semantic-release/git/issues"
+    "url": "https://github.com/jeromefitz/semantic-release-git/issues"
   },
   "contributors": [
     "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
@@ -83,7 +83,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/semantic-release/git.git"
+    "url": "https://github.com/jeromefitz/semantic-release-git.git"
   },
   "scripts": {
     "lint": "xo",
